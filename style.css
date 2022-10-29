@@ -6,7 +6,7 @@
 }
 
 body{
-    background-color: white;
+    background-color:rgb(213, 213, 228);
 }
 
 /* FOOTER */
@@ -72,6 +72,7 @@ color: white;
     padding: 20px;
     text-align: center;
     position: relative;
+    background-color: white;
 }
 
 .product_new{
@@ -79,6 +80,7 @@ color: white;
     padding: 20px;
     text-align: center;
     position: relative;
+    background-color: white;
 }
 .product_new:before{
     content: "NEW";
